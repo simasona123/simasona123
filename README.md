@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simasona123
-- 👀 I’m interested in python, django, and all other stuff about web app programming
+- 👀 I’m interested in web programming, especially python and django
 - 📫 How to reach me, Instagram @anjangpertala
 
 <!---
